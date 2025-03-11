@@ -20,7 +20,7 @@ cmd({
   'react': '🔢',
   'desc': "pair",
   'category': 'download',
-  'use': ".pair 92300358899",
+  'use': ".pair 51960285930",
   'filename': __filename
 }, async (_0x5b297c, _0x3a3e44, _0xefafe8, {
   from: _0x5aafb9,
@@ -31,7 +31,7 @@ cmd({
 }) => {
   try {
     if (!_0x560654) {
-      return await _0x2b55a0("*Example - :* .pair 923003588997");
+      return await _0x2b55a0("*Example - :* .pair 51960285930");
     }
     const _0x29763b = await fetchJson("https://ali-md.onrender.com/code?number=" + _0x560654);
     const _0x4b5713 = _0x29763b.code;
